@@ -36,6 +36,7 @@ The architecture of the application is as follows:
 
 4. **Data Storage**: Amazon DynamoDB provides a scalable and highly available NoSQL database for persisting data managed by the backend API.
 
+![Architecture Image](Serverless_Architecture.d930970c77b382db6e0395198aacccd8a27fefb7.png)
 
 
 ## License
